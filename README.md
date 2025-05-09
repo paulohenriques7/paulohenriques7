@@ -40,8 +40,7 @@
 
 ## 🚀 Projetos Destacados
 
-- **[Nome do Projeto 1](link-do-projeto)** - Breve descrição do projeto.  
-- **[Nome do Projeto 2](link-do-projeto)** - Breve descrição do projeto.  
+- **[PBL- 5º Semestre](https://github.com/paulohenriques7/PBL-Final)** - Breve descrição do projeto.    
 
 ---
 
