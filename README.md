@@ -40,7 +40,7 @@
 
 ## 🚀 Projetos Destacados
 
-- **[PBL- 5º Semestre](https://github.com/paulohenriques7/PBL-Final)** - Breve descrição do projeto.    
+- **[PBL- 5º Semestre](https://github.com/paulohenriques7/PBL-Final)** - O projeto é baseado em uma aplicação de IoT que utiliza um microcontrolador ESP32 para se conectar a uma rede Wi-Fi e se comunicar com um broker MQTT. A aplicação foi projetada para controlar um LED integrado e enviar leituras de temperatura para o broker. O código é escrito em C++ e utiliza as bibliotecas WiFi e PubSubClient para funcionalidades de rede e MQTT.    
 
 ---
 
